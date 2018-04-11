@@ -1,4 +1,4 @@
-FROM 100.125.0.198:20202/hwcse/dockerhub-java:8-jre-alpine
+FROM 100.125.0.94:20202/hwcse/dockerhub-java:8-jre-alpine
 
 WORKDIR /home/apps/
 ADD target/fortest-1.0.0.jar .
